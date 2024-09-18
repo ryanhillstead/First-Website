@@ -1,0 +1,85 @@
+body {
+    background-image: url("../img/Background.jpg");
+    background-color: white;
+    background-repeat: repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    margin: 15px;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30pt;
+    text-decoration: underline;
+    background: linear-gradient(#07abf7, #cad6db);
+    
+}
+h2 {
+    margin-top: .75%;
+    margin-bottom: .33%;
+}
+p {
+    line-height: 2;
+}
+img {
+    width: 450px;
+    height: 450px;
+    float: right;
+    border:solid #07abf7;
+    box-shadow: 5px 10px grey;
+    
+}
+.poem {
+    margin-left: 40px;
+    font-style: italic;
+}
+.firstline {
+    margin-top: 12pt;
+}
+table {
+    border: solid 1px;
+    text-align: left;
+    width: 50%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+th {
+    border: solid 1px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+td {
+    border: solid 1px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.time {
+    background: linear-gradient(#bccce6, #cad6db);
+}
+.days{
+    width: 16.7%;
+    background: linear-gradient(#07abf7, #cad6db);
+}
+.calc {
+    background: linear-gradient(yellow, #cad6db);
+}
+.work {
+    background: linear-gradient(tomato, #cad6db);
+}
+.homework {
+    background: linear-gradient(lightgreen, #cad6db);
+}
+.lunch {
+    background: linear-gradient(violet, #cad6db);
+}
+.web {
+    background: linear-gradient(royalblue, #cad6db);
+}
+.cs {
+    background: linear-gradient(orangered,#cad6db);
+}
+.home {
+    background: linear-gradient(greenyellow, #cad6db);
+}
+.thirtymin {
+    border-bottom: solid #07abf7;
+}
